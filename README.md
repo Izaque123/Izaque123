@@ -2,13 +2,13 @@
 
 # Hello there, 
 
-**`Desenvolvedor Júnior`**
+**`Junior Developer`**
 
-Me chamo Izaque Nicolas, tenho 19 anos e sou natural de Floriano. Concluí o curso técnico em desenvolvimento de Sistemas (TDS) no Instituto Federal do Piaui (IFPI). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPI campus Floriano.
+My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed a technical course in Systems Development (TDS) at the Federal Institute of Piauí (IFPI). Currently, I am studying Systems Analysis and Development at the IFPI Floriano campus.
 
 <h1>
 <br>
-Tecnologias mais usadas
+Most commonly used technologies
 </h1>
 
 <h3 align="center">
