@@ -8,8 +8,6 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <h1>Contributions</h1>
 
-<h1>Contributions</h1>
-
 <!-- Primeiro elemento - largura total -->
 <div align="center">
   <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=41986369" target="_blank">
