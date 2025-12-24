@@ -28,16 +28,16 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
   <!-- Primeiro elemento lateral - AUMENTO INTERMEDIÁRIO -->
   <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=41986369" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="390" height="auto">
-      <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="390" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="370" height="auto">
+      <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="370" height="auto">
     </picture>
   </a>
   
   <!-- Segundo elemento lateral - AUMENTO INTERMEDIÁRIO -->
   <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity?repo_id=41986369" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="490" height="auto">
-      <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="490" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="470" height="auto">
+      <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="470" height="auto">
     </picture>
   </a>
   
