@@ -20,16 +20,23 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <br>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="373" height="auto">
-    <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="373" height="auto">
-  </picture>
-</a>
-
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="488.5" height="auto">
-    <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="488.5" height="auto">
-  </picture>
-</a>
+<!-- Container para os dois elementos lado a lado -->
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 15px; flex-wrap: wrap;">
+  
+  <!-- Primeiro elemento lateral - REDUÇÃO MAIOR -->
+  <a href="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors?repo_id=41986369" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="260" height="auto">
+      <img alt="Top Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="260" height="auto">
+    </picture>
+  </a>
+  
+  <!-- Segundo elemento lateral - REDUÇÃO MAIOR -->
+  <a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity?repo_id=41986369" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="342" height="auto">
+      <img alt="Collaborative Productivity of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="342" height="auto">
+    </picture>
+  </a>
+  
+</div>
