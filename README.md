@@ -1,7 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b0000&height=120&section=header"/>
 
-## Hello there 👋
-<h1 align="center">
+# Hello there, 
+
+**`Desenvolvedor Júnior`**
+
+Me chamo Izaque Nicolas, tenho 19 anos e sou natural de Floriano. Concluí o curso técnico em desenvolvimento de Sistemas (TDS) no Instituto Federal do Piaui (IFPI). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFPI campus Floriano.
+
+<h1>
 <br>
 Tecnologias mais usadas
 </h1>
