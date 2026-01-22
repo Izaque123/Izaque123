@@ -8,14 +8,15 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <br>
 
-  <p align="center">
+<p align="center">
   <br>
-    <summary> <b> <samp> Hollow Knight </samp></b></summary>
-  <samp>
+<samp>
    <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev"></a>
 </samp>
+  <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </p>
+
 <details align="center">
 <summary> <b> <samp> Light bonfire </samp></b></summary>
 <samp>
@@ -23,6 +24,7 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200">
 </samp>
 </details>
+
 <hr>
 
 # Technologies That I Know
