@@ -19,7 +19,7 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <div align="center">
 <samp>
- <b><h2 style="color: #fc6203">H O L L O W  &nbsp; W A N D E R E R </h2> </b>
+ <b><h2 style="color: #fc6203">W A N D E R E R  &nbsp;</h2> </b>
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
 </samp>
 </div>
