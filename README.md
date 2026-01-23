@@ -8,15 +8,6 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <br>
 
-<div align="center">
-<samp>
- <b><h2 style="color: #fc6203">H O L L O W  &nbsp; K N I G H T </h2> </b>
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
-</samp>
-</div>
-
-<hr>
-
 # Technologies That I Know
 
 <!--tech stack icons-->
@@ -25,3 +16,12 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
     <img src="https://skillicons.dev/icons?i=git,aws,c,css,discord,docker,figma,github,html,java,js,nodejs,py,react,tailwind,django&amp;perline=14">
   </a>
 </p>
+
+<div align="center">
+<samp>
+ <b><h2 style="color: #fc6203">H O L L O W  &nbsp; K N I G H T </h2> </b>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200">
+</samp>
+</div>
+
+<hr>
