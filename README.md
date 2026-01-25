@@ -26,4 +26,4 @@ My name is Izaque Nicolas, I am 19 years old and I am from Floriano. I completed
 
 <hr>
 
-<table><thead><tr><th align="center">My Stats</th></tr></thead><tbody><tr><td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=algolia" alt="My Github Stats"></td></tr></tbody></table>
+<table><thead><tr><th align="center">My Stats</th></tr></thead><tbody><tr><td align="center"><img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=gotham" alt="My Github Stats"></td></tr></tbody></table>
