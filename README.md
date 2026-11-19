@@ -13,7 +13,9 @@ My name is Izaque Nicolas, I am 20 years old and I am from Floriano. I completed
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,react,aws,postgres,docker,py,django,laravel&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres,docker,laravel&amp;perline=14"><br>
+    <img src="https://skillicons.dev/icons?i=js,tailwind,css,react&amp;perline=14"><br>
+    <img src="https://skillicons.dev/icons?i=aws,github,figma&amp;perline=14">
   </a>
 </p>
 
