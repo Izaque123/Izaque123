@@ -2,9 +2,11 @@
 
 **`Full Stack Developer`**
 
-My name is Izaque Nicolas, I am 20 years old and I am from Floriano. I completed a technical course in Systems Development (TDS) at the Federal Institute of Piauí (IFPI).
+> My name is Izaque Nicolas, I am 20 years old and I am from Floriano. I completed a technical course in Systems Development (TDS) at the Federal Institute of Piauí (IFPI).
 
-I currently work as a developer/IT professional at a local clinic, where I build applications that assist staff with their daily tasks and support the management of the clinic’s various departments.
+I currently work as a developer/IT professional at a local clinic, where I build applications that assist staff with their daily tasks and support the management of the clinic’s various departments. 
+
+I also take on freelance work in the Floriano area—not only in software development but also by providing basic hardware and software support services.
 
 <br>
 
