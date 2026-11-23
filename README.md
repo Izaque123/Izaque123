@@ -30,4 +30,23 @@ I also take on freelance work in the Floriano area—not only in software develo
 
 <hr>
 
-<table><thead><tr><th align="center">My Stats</th></tr></thead><tbody><tr><td align="center"><img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=gotham" alt="My Github Stats"></td><td><a><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img><img width="900" height="1" alt=""></a></td></tr></tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th align="center">My Stats</th>
+      <th align="center">Milestones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=gotham" alt="My Github Stats" width="420">
+        <br><img width="450" height="1" alt="">
+      </td>
+      <td align="center">
+        <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt="Achievements" width="420">
+        <br><img width="450" height="1" alt="">
+      </td>
+    </tr>
+  </tbody>
+</table>
