@@ -15,12 +15,21 @@ I also take on freelance work in the Floriano area—not only in software develo
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres,docker,laravel&amp;perline=14"><br>
-    <img src="https://skillicons.dev/icons?i=js,tailwind,css,react&amp;perline=14"><br>
-    <img src="https://skillicons.dev/icons?i=aws,github,figma&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres,docker,redis&amp;perline=14"><br>
+    <img src="https://skillicons.dev/icons?i=js,tailwind,css,react,vite&amp;perline=14"><br>
+    <img src="https://skillicons.dev/icons?i=cloudflare,github,vercel,figma&amp;perline=14">
   </a>
 </p>
-  
+
+
+# Worked With
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,bootstrap&perline=14"><br>
+  </a>
+</p>
+
 <div align="center">
 <samp>
  <b><h2 style="color: #fc6203">I'M &nbsp; W A N D E R E R</h2> </b>
