@@ -21,6 +21,13 @@ I also take on freelance work in the Floriano area—not only in software develo
   </a>
 </p>
 
+# Milestones
+<!--achievements table-->
+  <a>
+    <img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img>
+    <img width="900" height="1" alt="">
+  </a>
+  
 <div align="center">
 <samp>
  <b><h2 style="color: #fc6203">I'M &nbsp; W A N D E R E R</h2> </b>
