@@ -40,7 +40,7 @@ I also take on freelance work in the Floriano area—not only in software develo
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=gotham" alt="My Github Stats" width="420">
+        <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Izaque123&amp;show_icons=true&amp;theme=gotham&amp;count_private=true" alt="My Github Stats" width="420">
         <br><img width="450" height="1" alt="">
       </td>
       <td align="center">
