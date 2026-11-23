@@ -16,7 +16,7 @@ I also take on freelance work in the Floriano area—not only in software develo
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,nodejs,postgres,docker,redis&amp;perline=14"><br>
-    <img src="https://skillicons.dev/icons?i=js,tailwind,css,react&amp;perline=14"><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,tailwind,css,react&amp;perline=14"><br>
     <img src="https://skillicons.dev/icons?i=cloudflare,github,vercel&amp;perline=14">
   </a>
 </p>
