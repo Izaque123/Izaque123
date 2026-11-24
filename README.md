@@ -56,9 +56,3 @@ I also take on freelance work in the Floriano area—not only in software develo
     </tr>
   </tbody>
 </table>
-
-<br>
-
-<div align="center">
-  <img src="./assets/footer.svg" alt="" width="100%">
-</div>
