@@ -14,7 +14,9 @@ I currently work as a developer/IT professional at a local clinic, where I build
 
 I also take on freelance work in the Floriano area—not only in software development but also by providing basic hardware and software support services.
 
-<br>
+<div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</div>
 
 # Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="19px">
 
