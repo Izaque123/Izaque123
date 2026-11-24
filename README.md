@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header_v2.svg" alt="Izaque Nicolas - Full Stack Developer" width="100%">
+  <img src="./assets/header.svg" alt="Izaque Nicolas - Full Stack Developer" width="100%">
 </div>
 
 <br> 
