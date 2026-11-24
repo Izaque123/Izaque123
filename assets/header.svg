@@ -4,9 +4,18 @@
       <stop offset="0%" stop-color="#8b949e" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
-    <clipPath id="typing">
-      <rect x="300" y="120" height="40" width="0">
-        <animate attributeName="width" values="0;300;300;0" keyTimes="0;0.45;0.9;1" dur="6s" repeatCount="indefinite"/>
+
+    <!-- digitação: Full Stack Developer -->
+    <clipPath id="typing1">
+      <rect x="305" y="120" height="40" width="0">
+        <animate attributeName="width" values="0;290;290;0;0" keyTimes="0;0.2;0.42;0.5;1" dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <!-- digitação: Mobile Developer -->
+    <clipPath id="typing2">
+      <rect x="331" y="120" height="40" width="0">
+        <animate attributeName="width" values="0;0;238;238;0" keyTimes="0;0.5;0.7;0.92;1" dur="12s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
@@ -52,12 +61,22 @@
     <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
   </text>
 
-  <!-- subtítulo digitando -->
-  <g clip-path="url(#typing)">
+  <!-- subtítulo 1 -->
+  <g clip-path="url(#typing1)">
     <text x="450" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#8b949e">&gt; Full Stack Developer</text>
   </g>
+
+  <!-- subtítulo 2 -->
+  <g clip-path="url(#typing2)">
+    <text x="450" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#8b949e">&gt; Mobile Developer</text>
+  </g>
+
+  <!-- cursor -->
   <rect y="128" width="2" height="26" fill="#8b949e">
-    <animate attributeName="x" values="300;600;600;300" keyTimes="0;0.45;0.9;1" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="x"
+             values="305;595;595;305;331;569;569;331"
+             keyTimes="0;0.2;0.42;0.5;0.5;0.7;0.92;1"
+             dur="12s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
   </rect>
 </svg>
