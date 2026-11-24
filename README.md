@@ -58,5 +58,5 @@ I also take on freelance work in the Floriano area—not only in software develo
 </table>
 
 <div align="center">
-  <img src="./assets/footer.svg?v=2" alt="" width="100%">
+  <img src="./assets/footer_v2.svg" alt="" width="100%">
 </div>
