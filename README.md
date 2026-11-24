@@ -60,5 +60,5 @@ I also take on freelance work in the Floriano area—not only in software develo
 <br>
 
 <div align="center">
-  <img src="./assets/footer.svg" alt="Izaque Nicolas - Thanks for stopping by" width="100%">
+  <img src="./assets/footer.svg" alt="" width="100%">
 </div>
