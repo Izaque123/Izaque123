@@ -1,7 +1,7 @@
 <svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <radialGradient id="glow" cx="50%" cy="55%" r="55%">
-      <stop offset="0%" stop-color="#fc6203" stop-opacity="0.20"/>
+      <stop offset="0%" stop-color="#8b949e" stop-opacity="0.18"/>
       <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
     <clipPath id="typing">
@@ -15,7 +15,7 @@
   <rect width="900" height="220" rx="12" fill="url(#glow)"/>
 
   <!-- partículas -->
-  <g fill="#fc6203">
+  <g fill="#8b949e">
     <circle cx="90" cy="230" r="2">
       <animate attributeName="cy" values="230;-10" dur="7s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/>
@@ -54,9 +54,9 @@
 
   <!-- subtítulo digitando -->
   <g clip-path="url(#typing)">
-    <text x="450" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#fc6203">&gt; Full Stack Developer</text>
+    <text x="450" y="148" text-anchor="middle" font-family="'Courier New', monospace" font-size="22" fill="#8b949e">&gt; Full Stack Developer</text>
   </g>
-  <rect y="128" width="2" height="26" fill="#fc6203">
+  <rect y="128" width="2" height="26" fill="#8b949e">
     <animate attributeName="x" values="300;600;600;300" keyTimes="0;0.45;0.9;1" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
   </rect>
