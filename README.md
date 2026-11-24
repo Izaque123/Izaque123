@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="./assets/header.svg" alt="Izaque Nicolas - Full Stack Developer" width="100%">
+</div>
+
+<br>
+
 # Hello there
 
 **`Full Stack Developer`**
