@@ -105,7 +105,7 @@
 
   <!-- nome -->
   <text x="450" y="100" text-anchor="middle" font-family="'Courier New', monospace" font-size="44" font-weight="bold" fill="#ffffff" opacity="0">
-    Izaque Nicolas
+   /* V M */
     <animate attributeName="opacity" values="0;1" dur="1.5s" fill="freeze"/>
   </text>
 
