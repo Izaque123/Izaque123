@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/divider.svg" alt="" width="100%">
+</div>
+
+<br>
+
+<div align="center">
   <img src="./assets/header_v2.svg" alt="Izaque Nicolas - Full Stack Developer" width="100%">
 </div>
 
